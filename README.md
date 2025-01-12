@@ -8,6 +8,13 @@ Fashion Hub is a modern and stylish online web application for ordering dresses,
  ## Live app
  -[Fashify Hub Web App](https://fashifyhub.netlify.app)
 
+ ## Home Page
+ ![Login  page](https://github.com/abuiron/fashifyhub-fe/blob/main/src/assets/images/login.png?raw=true)
+
+ ![Home Page](https://github.com/abuiron/fashifyhub-fe/blob/main/src/assets/images/front.png?raw=true)
+
+ ![Products](https://github.com/abuiron/fashifyhub-fe/blob/main/src/assets/images/product.png?raw=true)
+
 
 ## Features
 
